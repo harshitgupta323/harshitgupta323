@@ -67,43 +67,12 @@
 
 * MLflow
 * Docker
-* Kubernetes
-* GitHub Actions
 
 ### Cloud
 
 * Google Cloud Platform (GCP)
 * AWS
 * Azure
-
----
-
-## 🏆 Certifications
-
-* Anthropic Academy Certifications
-* LangChain & LangGraph Certifications
-* Google Professional Machine Learning Engineer *(In Progress)*
-* Claude Certified Architect *(Planned)*
-
----
-
-## ⭐ Featured Projects
-
-### Autonomous AI Research Assistant
-
-* Multi-agent system for analyzing research papers, PDFs, and technical documents.
-
-### Enterprise Knowledge Assistant
-
-* Production-grade RAG system with LangGraph, vector databases, and observability.
-
-### Autonomous ML Experiment Agent
-
-* AI system capable of performing EDA, model training, hyperparameter optimization, and reporting.
-
-### AI Gateway
-
-* Intelligent routing across GPT, Claude, Gemini, and open-source models.
 
 ---
 
