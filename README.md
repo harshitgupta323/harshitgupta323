@@ -27,7 +27,7 @@
 * Enterprise Knowledge Assistant using LangGraph
 * Production-Grade RAG Systems
 * Deep Agents and Model Context Protocol (MCP)
-* LLM Observability using LangSmith and OpenTelemetry
+* LLM Observability using LangSmith
 
 ---
 
@@ -59,6 +59,7 @@
 
 * LangChain
 * LangGraph
+* Groq
 * OpenAI
 * Claude
 * Gemini
@@ -67,12 +68,14 @@
 
 * MLflow
 * Docker
+* FastAPI
+* LangSmith
 
 ### Cloud
 
+* Amazon Web Services (AWS)
 * Google Cloud Platform (GCP)
-* AWS
-* Azure
+* Microsoft Azure
 
 ---
 
