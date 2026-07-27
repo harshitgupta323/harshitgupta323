@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-* Senior Machine Learning Engineer with experience designing and deploying end-to-end AI and ML solutions.
+* Senior Machine Learning Engineer at Warner Bros. Discovery with experience designing and deploying end-to-end AI and ML solutions.
 * Passionate about Generative AI, Agentic AI, LLMOps, and production-grade AI systems.
 * Experienced in building RAG pipelines, Multi-Agent Systems, and enterprise AI applications.
 * Strong focus on scalability, observability, reliability, and system design.
