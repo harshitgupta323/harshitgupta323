@@ -82,7 +82,6 @@
 ## 🌐 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/harshitgupta323
-* Email: mailto:harshitgupta323@gmail.com
 * Leetcode: https://leetcode.com/u/harshitgupta323
 
 ---
